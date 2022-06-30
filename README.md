@@ -7,3 +7,6 @@ Error gaussiano y función de error complementario
 
 
 ![image](https://user-images.githubusercontent.com/81051067/176596262-64dbacf8-d9d2-4731-b894-8ac1b87738ac.png)
+
+
+![image](https://user-images.githubusercontent.com/81051067/176596316-ad8389f1-14f9-4422-a7fc-dd133bb1acc3.png)
